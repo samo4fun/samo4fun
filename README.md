@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/samo4dev"><img src="https://api.daily.dev/devcards/b93c10006b32471e86b529e6e881b57c.png?r=1x3" width="400" alt="samo4dev's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/samo4fun/samo4fun/blob/master/devcard.svg" width="400" alt="samo4dev's Dev Card"/></a>
+
 
 <!--
 **samo4fun/samo4fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
