@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/samo4fun/samo4fun/main/devcard.svg" width="400" alt="samo4dev's Dev Card"/></a>
+<a href="https://app.daily.dev/samo4fun"><img src="https://api.daily.dev/devcards/v2/thKYzNaeHEijNCcNW6whO.png?type=default&r=1dr" width="356" alt="samo4fun's Dev Card"/></a>
 
 
 <!--
